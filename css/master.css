@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat:wght@400;600;700&display=swap");
+.container {
+  width: 50%;
+  height: 340px;
+  background: #8080802e;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.logo {
+  width: 100px;
+  height: 80px;
+  display: block;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+.btn-divisas {
+  background: #80808033;
+  color: black;
+  font-weight: 600;
+}
+
+.btn-convertir {
+  background: green;
+  color: antiquewhite;
+  width: 185px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+
+.botones {
+  text-align: center;
+}
+
+.input-dinero {
+  width: 445px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
